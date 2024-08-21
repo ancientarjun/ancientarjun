@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ancientarjun
 - 👀 I’m interested in Creating Things
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on LinkedIn
 
 
