@@ -1,8 +1,8 @@
-# Arjun
+# Hi, I'm Arjun 👋
 
 > Ancient curiosity, modern technology.
 
-I'm a Computer Science student at DSEU who enjoys figuring out how things work—whether that's a piece of code, a security vulnerability, or a machine learning model.
+I'm a Computer Science student who enjoys figuring out how things work—whether that's a piece of code, a security vulnerability, or a machine learning model.
 
 Most of what you'll find here is a reflection of that curiosity: projects, experiments, notes, and the occasional rabbit hole that started with a simple question and ended somewhere completely unexpected.
 
@@ -14,10 +14,19 @@ Most of what you'll find here is a reflection of that curiosity: projects, exper
 * Improving problem-solving and software development skills
 * Turning ideas into projects instead of leaving them in a notebook
 
-### Tech I use
+### Tech I Use
 
 ```text
 C • C++ • Python • SQL
+Linux • DSA • Git
+```
+
+### Currently Learning
+
+```text
+Cybersecurity
+Artificial Intelligence & Machine Learning
+Whatever catches my curiosity next
 ```
 
 ### What interests me
@@ -49,3 +58,13 @@ Some repositories here are polished, some are unfinished, and some exist purely 
 If you've made it this far, thanks for stopping by.
 
 Feel free to look around.
+
+---
+
+
+### Connect
+
+* GitHub: https://github.com/ancientarjun
+* LinkedIn: https://www.linkedin.com/in/ancientarjun/
+
+> "Stay curious. Stay consistent. Keep building."
